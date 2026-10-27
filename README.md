@@ -2,3 +2,6 @@
 Small command-line tools built with only the standard library. Each tool demonstrates a common argparse pattern.
 
 # Usage
+
+# Tools
+sysinfo.py
